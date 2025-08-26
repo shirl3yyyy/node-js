@@ -1,0 +1,25 @@
+{
+  "name": "loveee",
+  "version": "1.0.0",
+  "description": "",
+  "main": "hello-world.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shirl3yyyy/node-js.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shirl3yyyy/node-js/issues"
+  },
+  "homepage": "https://github.com/shirl3yyyy/node-js#readme",
+  "dependencies": {
+    "generate-password": "^1.7.1",
+    "nodemailer": "^7.0.5"
+  }
+}
